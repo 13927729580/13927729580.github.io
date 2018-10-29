@@ -203,11 +203,11 @@ linux+oracle+weblogic软件环境南海区政府采购网
 
 | 技术框架名称 | 掌握程度 | 技术框架名称 | 掌握程度 |
 | :------| ------: | :------ | ------: |
-| Hadoop				| 熟练 | ARCGIS			| 熟练 |
-| 虚拟化openstack		| 熟练 | SOA				| 熟练 |
-| 移动前端				| 熟练 | Spring			| 熟练 |
-| node.js/meteor		| 熟练 | Hibernate		| 熟练 |
-| Python				| 熟练 | Struts			| 熟练 |
+| Hadoop				| 熟练 | ARCGIS			| 熟悉 |
+| 虚拟化openstack		| 熟练 | SOA				| 熟悉 |
+| 移动前端				| 熟练 | Spring			| 熟悉 |
+| node.js/meteor		| 熟练 | Hibernate		| 熟悉 |
+| Python				| 熟练 | Struts			| 熟悉 |
 | Oracle				| 精通 | Mysql			| 熟练 |
 | UNIX/LINUX			| 熟练 | Hadoop			| 熟悉 |
 | LAN/ WAN			| 精通 | Python			| 熟悉 |
